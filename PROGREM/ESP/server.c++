@@ -16,7 +16,7 @@
 
 //variáveis globais:
   int quantidadeDeAcessos = 0;
-// Página HTML (histórico de acesso 
+// Página HTML (histórico de acesso)
   String sendPage() {
     String quantAccess = String(quantidadeDeAcessos);
     
@@ -78,3 +78,5 @@ void loop() {
   dnsServer.processNextRequest();
   server.handleClient();
 }
+
+não criou a rede
