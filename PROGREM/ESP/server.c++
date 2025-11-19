@@ -16,8 +16,9 @@
 
 //variáveis globais:
   int quantidadeDeAcessos = 0;
+
 // Página HTML (histórico de acesso)
-  String sendPage() {
+  String page_historico() {
     String quantAccess = String(quantidadeDeAcessos);
     
     String page =
