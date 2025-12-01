@@ -49,7 +49,7 @@ String paginaInicial() {
         "</ul>"
         "<hr>"
         "<h2>Ações recentes</h2>"
-        "<p><b>Última ação:</b> <span id='acao'>Nenhuma ação registrada ainda.</span></p>"
+        "<p><b>Última ação:</b> <span id='acao'>Esperando resposta do servidor</span></p>"
       "</main>"
       "<footer>"
         "<br><hr>"
